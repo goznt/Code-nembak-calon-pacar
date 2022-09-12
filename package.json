@@ -1,0 +1,23 @@
+{
+  "name": "code-nembak-calon-pacar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungkrishna-code/Code-nembak-calon-pacar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungkrishna-code/Code-nembak-calon-pacar/issues"
+  },
+  "homepage": "https://github.com/agungkrishna-code/Code-nembak-calon-pacar#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
