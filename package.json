@@ -1,11 +1,11 @@
 {
   "name": "code-nembak-calon-pacar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "source" : "index.html",
   "scripts": {
     "start": "parcel",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "parcel test"
   },
   "repository": {
     "type": "git",
